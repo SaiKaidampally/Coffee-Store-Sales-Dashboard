@@ -12,9 +12,11 @@ Retail coffee stores need insight into sales trends to optimize inventory and in
 6. Business Insight Generation
 
 ## Visualizations Created
-- Monthly Sales Trend
-- Category-wise Sales
-- Top 10 Products by Revenue
+1.	Trend of transactions and sales by day of the week (Monday–Sunday)
+2.	Revenue distribution by coffee type
+3.	Payment method preference (card vs. cash)
+4.	Average daily transactions and average daily sales
+5.	Peak times of the day: morning, afternoon, evening
 
 ## Observations
 - Peak sales are observed in certain months indicating seasonal demand.
@@ -23,3 +25,4 @@ Retail coffee stores need insight into sales trends to optimize inventory and in
 
 ## Conclusion
 The dashboard enables business managers to make informed decisions on inventory planning, promotional strategies, and demand forecasting.
+
