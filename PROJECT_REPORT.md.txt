@@ -1,0 +1,25 @@
+# Coffee Store Sales Dashboard – Mini Project Report
+
+## Problem Statement
+Retail coffee stores need insight into sales trends to optimize inventory and increase revenue.
+
+## Methodology
+1. Data Loading
+2. Data Cleaning
+3. Feature Engineering
+4. Aggregation & Analysis
+5. Data Visualization
+6. Business Insight Generation
+
+## Visualizations Created
+- Monthly Sales Trend
+- Category-wise Sales
+- Top 10 Products by Revenue
+
+## Observations
+- Peak sales are observed in certain months indicating seasonal demand.
+- Coffee and Bakery categories contribute maximum revenue.
+- Few products dominate overall sales indicating focus inventory items.
+
+## Conclusion
+The dashboard enables business managers to make informed decisions on inventory planning, promotional strategies, and demand forecasting.
